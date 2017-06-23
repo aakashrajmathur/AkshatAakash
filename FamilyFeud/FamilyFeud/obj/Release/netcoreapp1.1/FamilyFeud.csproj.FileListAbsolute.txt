@@ -1,0 +1,11 @@
+C:\Users\aamathur\Desktop\Clutter\DuefYlimaf\FamilyFeud\FamilyFeud\bin\Release\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aamathur\Desktop\Clutter\DuefYlimaf\FamilyFeud\FamilyFeud\bin\Release\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aamathur\Desktop\Clutter\DuefYlimaf\FamilyFeud\FamilyFeud\bin\Release\netcoreapp1.1\FamilyFeud.deps.json
+C:\Users\aamathur\Desktop\Clutter\DuefYlimaf\FamilyFeud\FamilyFeud\bin\Release\netcoreapp1.1\FamilyFeud.runtimeconfig.json
+C:\Users\aamathur\Desktop\Clutter\DuefYlimaf\FamilyFeud\FamilyFeud\bin\Release\netcoreapp1.1\FamilyFeud.runtimeconfig.dev.json
+C:\Users\aamathur\Desktop\Clutter\DuefYlimaf\FamilyFeud\FamilyFeud\bin\Release\netcoreapp1.1\FamilyFeud.dll
+C:\Users\aamathur\Desktop\Clutter\DuefYlimaf\FamilyFeud\FamilyFeud\bin\Release\netcoreapp1.1\FamilyFeud.pdb
+C:\Users\aamathur\Desktop\Clutter\DuefYlimaf\FamilyFeud\FamilyFeud\obj\Release\netcoreapp1.1\FamilyFeud.csprojResolveAssemblyReference.cache
+C:\Users\aamathur\Desktop\Clutter\DuefYlimaf\FamilyFeud\FamilyFeud\obj\Release\netcoreapp1.1\FamilyFeud.AssemblyInfo.cs
+C:\Users\aamathur\Desktop\Clutter\DuefYlimaf\FamilyFeud\FamilyFeud\obj\Release\netcoreapp1.1\FamilyFeud.dll
+C:\Users\aamathur\Desktop\Clutter\DuefYlimaf\FamilyFeud\FamilyFeud\obj\Release\netcoreapp1.1\FamilyFeud.pdb
